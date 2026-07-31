@@ -1,0 +1,1 @@
+Ultra realistic commercial portrait of a young business professional, around 28 years old, looking directly into the camera, confident smile, natural facial expression, modern casual business outfit, clean hairstyle, studio lighting, white seamless background, photorealistic, highly detailed skin, corporate advertising photography, DSLR, 85mm lens.
