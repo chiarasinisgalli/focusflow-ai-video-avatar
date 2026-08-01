@@ -53,3 +53,5 @@ prompts/
 ## Author
 
 Academic project developed for the AI Content Creation course.
+
+Note: The video was generated using HeyGen's free plan. Due to export limitations in the current free tier, the final MP4 was captured directly from the rendered output while preserving the complete AI-generated workflow and final result.
